@@ -5,7 +5,8 @@ title: "Contributing"
 
 # 👋 Welcome
 
-Hello and welcome! Thank you so much for taking the time to contribute to the Tuva Project Knowledge Base. People like you have valuable knowledge and experience to share about working with healthcare data and doing healthcare analytics and machine learning.  Sharing your knowledge is a great way to help others analyze healthcare data.
+Hello and welcome! Thank you so much for taking the time to contribute to the Tuva Project Knowledge Base. 
+People like you have valuable knowledge and experience to share about working with healthcare data and doing healthcare analytics and machine learning.  Sharing your knowledge is a great way to help others analyze healthcare data.
 
 # 🤝 How to contribute
 
